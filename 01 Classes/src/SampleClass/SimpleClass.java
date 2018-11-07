@@ -1,9 +1,10 @@
 package SampleClass;
 
-public class SimpleClass {
+public class SimpleClass
+{
 
     // Class memebers
     private  String name;
     private  String color;
-    
+
 }

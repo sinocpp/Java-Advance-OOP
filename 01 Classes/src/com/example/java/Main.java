@@ -1,10 +1,13 @@
 package com.example.java;
 
 
-// Base class
-public class Main {
+// Base class, entry ponit for this app
+public class Main
+{
 
-    public static void main(String[] args) {
-	// write your code here
+    // Main method, runtime point
+    public static void main(String[] args)
+    {
+
     }
 }
