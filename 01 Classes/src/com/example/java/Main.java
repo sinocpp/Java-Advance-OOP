@@ -11,7 +11,15 @@ public class Main
         Robot robo1 = new Robot("Robot 1", "Black");
 
         robo1.closeLeftHand();
+        System.out.println(robo1);
+
         robo1.takeContant("Laser Gun");
+        System.out.println(robo1);
+
         robo1.openLeftHand();
+        System.out.println(robo1);
+
+        robo1.openRightHand();
+        System.out.println(robo1);
     }
 }
