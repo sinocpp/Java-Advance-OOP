@@ -1,4 +1,4 @@
-package sino.game;
+package sino.unit;
 
 import sino.unit.Object;
 import sino.unit.location.Location;

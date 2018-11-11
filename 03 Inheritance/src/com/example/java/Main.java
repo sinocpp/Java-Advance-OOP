@@ -1,6 +1,6 @@
 package com.example.java;
 
-import sino.game.StaticObject;
+import sino.unit.StaticObject;
 import sino.unit.Object;
 import sino.unit.location.Distance;
 import sino.unit.location.Location;

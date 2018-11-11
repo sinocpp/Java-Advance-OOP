@@ -1,5 +1,6 @@
 package sino.game;
 
+import sino.unit.DynamicObject;
 import sino.unit.location.Location;
 import sino.unit.location.Speed;
 
