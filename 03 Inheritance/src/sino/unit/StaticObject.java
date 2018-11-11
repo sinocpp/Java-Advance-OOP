@@ -8,7 +8,7 @@ public class StaticObject extends Object {
 
     public StaticObject(Location location, String spriteImage, String name) {
         // this is a call for constructor of class Object
-        super(location, spriteImage);
+        super(location, spriteImage, "");
         this.name = name;
     }
 

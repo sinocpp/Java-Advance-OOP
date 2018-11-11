@@ -4,7 +4,7 @@ import sino.unit.DynamicObject;
 import sino.unit.location.Location;
 import sino.unit.location.Speed;
 
-public class Enemy extends DynamicObject {
+public abstract class Enemy extends DynamicObject {
     private String name = "";
     private Integer strength = 0;
     private double health = 0;

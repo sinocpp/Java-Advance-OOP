@@ -8,7 +8,7 @@ public abstract class DynamicObject extends Object {
     private Speed speed;
 
     public DynamicObject(Location location, String imageSprite, Speed speed) {
-        super(location, imageSprite);
+        super(location, imageSprite, "");
         this.speed = speed;
     }
 
